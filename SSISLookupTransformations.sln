@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISLookupTransformations", "SSISLookupTransformations.dtproj", "{E3130C9F-4C91-4AF7-BE53-2BC2E4A7F413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3130C9F-4C91-4AF7-BE53-2BC2E4A7F413}.Development|Default.ActiveCfg = Development
+		{E3130C9F-4C91-4AF7-BE53-2BC2E4A7F413}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9393ECE7-4522-4427-8F01-CD785BAEED76}
+	EndGlobalSection
+EndGlobal
